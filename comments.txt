@@ -1,0 +1,22 @@
+
+https://www.sourcecodester.com/php/14596/simple-e-commerce-bookstore-phpmysqli-full-source-code.html
+https://www.sourcecodester.com/tags/website-templates
+Download the zip file.
+Download and install XAMPP
+Run the XAMPP control panel and start MySQL and Apache
+Go to C:\xampp\htdocs and extract the downloaded zip file (PN-Bookstore) inside the folder
+Open the browser and go to http://localhost/phpmyadmin/ to create the database
+Click the new to create a database.
+Name the database sourcecodester_bookdb.
+Click import to import the sql file.
+Click choose file and select the file that can be found inside the PN-Bookstore folder
+Click go.
+
+
+http://localhost/phpmyadmin
+
+http://localhost/PN-Book
+http://localhost/prettyplanta/
+la url es PN-book pòrque es el nombre de la carpeta en xampps/htdocs
+Hard refresh!!  ctrl + F5
+godday user: 615831207   !
